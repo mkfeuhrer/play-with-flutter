@@ -1,0 +1,302 @@
+{
+  "quiz": [
+    {
+      "image": "l1",
+      "option1": "PayPal",
+      "option2": "Pandora",
+      "option3": "Pacsafe",
+      "option4": "Plush",
+      "correct": "Pandora"
+    },
+    {
+      "image": "l2",
+      "option1": "Discovery",
+      "option2": "square card",
+      "option3": "american express",
+      "option4": "master card",
+      "correct": "master card"
+    },
+    {
+      "image": "l3",
+      "option1": "CNBC",
+      "option2": "CNN",
+      "option3": "BBC",
+      "option4": "Fox News",
+      "correct": "CNBC"
+    },
+    {
+      "image": "l4",
+      "option1": "GUCCI",
+      "option2": "ARMANI",
+      "option3": "CHANEL",
+      "option4": "Prada",
+      "correct": "CHANEL"
+    },
+    {
+      "image": "l5",
+      "option1": "NBA",
+      "option2": "Air Jordan",
+      "option3": "NFL",
+      "option4": "Under Armour",
+      "correct": "Air Jordan"
+    },
+    {
+      "image": "l6",
+      "option1": "Nike",
+      "option2": "Adidas",
+      "option3": "Under Armour",
+      "option4": "Reebok",
+      "correct": "Reebok"
+    },
+    {
+      "image": "l7",
+      "option1": "Pizza Hut",
+      "option2": "Pinterest",
+      "option3": "Pink",
+      "option4": "Puma",
+      "correct": "Pinterest"
+    },
+    {
+      "image": "l8",
+      "option1": "Pepsi",
+      "option2": "Mirinda",
+      "option3": "Redbull",
+      "option4": "Coca cola",
+      "correct": "Pepsi"
+    },
+    {
+      "image": "l9",
+      "option1": "Storytel",
+      "option2": "Audible",
+      "option3": "Amazon",
+      "option4": "Spotify",
+      "correct": "Audible"
+    },
+    {
+      "image": "l10",
+      "option1": "Finnacle",
+      "option2": "Four Square",
+      "option3": "Fila",
+      "option4": "FitFlop",
+      "correct": "Four Square"
+    },
+    {
+      "image": "l11",
+      "option1": "Matisse",
+      "option2": "Mia",
+      "option3": "Misfit",
+      "option4": "Michael Kors",
+      "correct": "Misfit"
+    },
+    {
+      "image": "l13",
+      "option1": "Brabus",
+      "option2": "Boeing",
+      "option3": "Airbus",
+      "option4": "Bombardier",
+      "correct": "Airbus"
+    },
+    {
+      "image": "l14",
+      "option1": "Daewoo",
+      "option2": "Miniso",
+      "option3": "Mini",
+      "option4": "Mazda",
+      "correct": "Mazda"
+    },
+    {
+      "image": "l15",
+      "option1": "Manchester City",
+      "option2": "Liverpool",
+      "option3": "Chelsea",
+      "option4": "Arsenal",
+      "correct": "Liverpool"
+    },
+    {
+      "image": "l16",
+      "option1": "Konami",
+      "option2": "SEGA",
+      "option3": "Atari",
+      "option4": "game loft",
+      "correct": "Atari"
+    },
+    {
+      "image": "l17",
+      "option1": "HTC",
+      "option2": "Sony Ericsson",
+      "option3": "Nokia",
+      "option4": "Palm",
+      "correct": "Sony Ericsson"
+    },
+    {
+      "image": "l18",
+      "option1": "Noise",
+      "option2": "Garmin",
+      "option3": "withings",
+      "option4": "fitbit",
+      "correct": "fitbit"
+    },
+    {
+      "image": "l19",
+      "option1": "Airbus",
+      "option2": "Bombardier",
+      "option3": "Boeing",
+      "option4": "BAE systems",
+      "correct": "Boeing"
+    },
+    {
+      "image": "l20",
+      "option1": "Blue Sky Studios",
+      "option2": "Pixar Animations",
+      "option3": "Walt Disney",
+      "option4": "Dreamworks",
+      "correct": "Dreamworks"
+    },
+    {
+      "image": "q2016",
+      "option1": "AMD",
+      "option2": "Bose",
+      "option3": "Subaru",
+      "option4": "Subway",
+      "correct": "AMD"
+    },
+    {
+      "image": "q2024",
+      "option1": "BP",
+      "option2": "Adidas",
+      "option3": "Subway",
+      "option4": "Starbucks",
+      "correct": "Starbucks"
+    },
+    {
+      "image": "q2028",
+      "option1": "Pizza Hut",
+      "option2": "Adidas",
+      "option3": "Braun",
+      "option4": "Lamborghini",
+      "correct": "Adidas"
+    },
+    {
+      "image": "q2032",
+      "option1": "Shell",
+      "option2": "Subaru",
+      "option3": "AMD",
+      "option4": "Bose",
+      "correct": "Shell"
+    },
+    {
+      "image": "q2036",
+      "option1": "Adidas",
+      "option2": "BP",
+      "option3": "Kellogs",
+      "option4": "Converse",
+      "correct": "Converse"
+    },
+    {
+      "image": "q2044",
+      "option1": "Pizza Hut",
+      "option2": "Samsonite",
+      "option3": "Bose",
+      "option4": "Subaru",
+      "correct": "Samsonite"
+    },
+    {
+      "image": "q2048",
+      "option1": "Samsonite",
+      "option2": "BMW",
+      "option3": "LG",
+      "option4": "Subaru",
+      "correct": "BMW"
+    },
+    {
+      "image": "q2052",
+      "option1": "Samsonite",
+      "option2": "Subaru",
+      "option3": "Subway",
+      "option4": "Bose",
+      "correct": "Subaru"
+    },
+    {
+      "image": "q2060",
+      "option1": "Kodak",
+      "option2": "BMW",
+      "option3": "Pizza Hut",
+      "option4": "Lego",
+      "correct": "Lego"
+    },
+    {
+      "image": "q2064",
+      "option1": "Subway",
+      "option2": "BP",
+      "option3": "Braun",
+      "option4": "Kodak",
+      "correct": "Kodak"
+    },
+    {
+      "image": "q2072",
+      "option1": "BP",
+      "option2": "Subway",
+      "option3": "Adidas",
+      "option4": "AMD",
+      "correct": "Subway"
+    },
+    {
+      "image": "q2080",
+      "option1": "Kellogs",
+      "option2": "Lego",
+      "option3": "Shell",
+      "option4": "Adidas",
+      "correct": "Kellogs"
+    },
+    {
+      "image": "q2084",
+      "option1": "Lamborghini",
+      "option2": "Adidas",
+      "option3": "BMW",
+      "option4": "Shell",
+      "correct": "Lamborghini"
+    },
+    {
+      "image": "q2088",
+      "option1": "BP",
+      "option2": "Converse",
+      "option3": "BMW",
+      "option4": "Subaru",
+      "correct": "BP"
+    },
+    {
+      "image": "q2092",
+      "option1": "Lamborghini",
+      "option2": "LG",
+      "option3": "Shell",
+      "option4": "Kodak",
+      "correct": "LG"
+    },
+    {
+      "image": "q2100",
+      "option1": "Pizza Hut",
+      "option2": "Starbucks",
+      "option3": "Bose",
+      "option4": "Lamborghini",
+      "correct": "Pizza Hut"
+    },
+    {
+      "image": "q2108",
+      "option1": "Braun",
+      "option2": "Bose",
+      "option3": "Lego",
+      "option4": "Shell",
+      "correct": "Bose"
+    },
+    {
+      "image": "q2112",
+      "option1": "BP",
+      "option2": "Braun",
+      "option3": "Lamborghini",
+      "option4": "Kodak",
+      "correct": "Braun"
+    }
+  ]
+}
+
+

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PhotoQuiz</string>
+    <string name="gojek_image">gojek image</string>
+    <string name="second_screen_text">This is second screen</string>
+    <string name="second_activity_label">Let the game begin</string>
+    <string name="play_quiz">Play quiz</string>
+    <string name="result">You Win</string>
+    <string name="questionImage">QuestionImage</string>
+    <string name="timer_value">timer</string>
+    <string name="popup_result_image">Popup result image</string>
+    <string name="continue_quiz">Continue</string>
+    <string name="nice_try">Nice Try!</string>
+    <string name="wrong_responses">Wrong Responses</string>
+    <string name="correct_responses">Correct Responses</string>
+    <string name="skipped_questions">Skipped Questions</string>
+    <string name="high_scores">High Scores</string>
+    <string name="total_time_taken">Total Time Taken</string>
+    <string name="correct_wrong_skipped_totaltime">Correct - Wrong - Skipped - TotalTime</string>
+</resources>
